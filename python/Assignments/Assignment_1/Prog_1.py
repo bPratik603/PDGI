@@ -1,0 +1,1 @@
+print("hello core2web");

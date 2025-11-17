@@ -1,0 +1,2 @@
+x = "Pratik";
+print(x);

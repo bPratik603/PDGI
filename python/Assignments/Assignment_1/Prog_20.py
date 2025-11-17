@@ -1,0 +1,21 @@
+intData = 10;
+floatData = 10.50;
+complexData = 10 + 11j;
+stringData = 'Core2Web';
+listData = [10,20,30];
+tupleData = (10,20,30);
+dictData = {0:10,1:20,2:30};
+setData = {10,20,30,40};
+booleanData = True;
+noneData = None;
+
+print(type(intData));
+print(type(floatData));
+print(type(complexData));
+print(type(stringData));
+print(type(listData));
+print(type(tupleData));
+print(type(dictData));
+print(type(setData));
+print(type(booleanData));
+print(type(noneData));
